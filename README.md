@@ -1,5 +1,5 @@
 # Telegram_sgk_bot
-（20230810）四处搜集的社工库机器人，随时更新。
+#（20230810）四处搜集的社工库机器人，随时更新。
 
 [星盾社工库机器人](https://t.me/XingDunBot?start=eoccUHG)
 
@@ -7,7 +7,7 @@
 
 [不知道是什么名字](https://t.me/chinasgk001_bot?start=invite6644057141)
 
-[落日社工库机器人](AISGK:http://t.me/aishegongkubot?start=AISGK_B9LHG58B)
+[落日社工库机器人](http://t.me/aishegongkubot?start=AISGK_B9LHG58B)
 
 [TGSGK](https://t.me/SGKmainNEWbot?start=IVT18C044435)
 
