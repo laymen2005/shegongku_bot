@@ -1,5 +1,5 @@
 # Telegram_sgk_bot
-##（20230810）四处搜集的社工库机器人，随时更新。##
+## （20230810）四处搜集的社工库机器人，随时更新。
 
 [星盾社工库机器人](https://t.me/XingDunBot?start=eoccUHG)
 
